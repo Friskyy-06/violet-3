@@ -12,14 +12,14 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |            $  |\$$$$$$  |
 
 
 
-# -**Thank you** for deciding to check out my dotfiles <3
+ -Thank you for deciding to check out my dotfiles <3
 
 
- ## Please **read** the following instructions:
+    Please read the following instructions:
 
 
-  -Installation: put the **i3** and **polybar** folders in your **~/.config**
-  -Wallpaper: put **pink.png** in ~/Pictures.
+  -Installation: put the i3 and polybar folders in your ~/.config
+  -Wallpaper: put pink.png in ~/Pictures.
   -Fonts: Download Martian Mono Nerd font at https://www.nerdfonts.com/font-downloads,
      then extract the package to your ~/.fonts folder.
    Note: If the .fonts directory isn't there already, just create it ;)
