@@ -20,7 +20,7 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |            $  |\$$$$$$  |
 
   -Installation: put the i3 and polybar folders in your ~/.config
   -Wallpaper: put pink.png in ~/Pictures.
-  -Fonts: Download Martian Mono Nerd font at https://www.nerdfonts.com/font-downloads,
+  -Fonts: Download Martian Mono Nerd font at ``` https://www.nerdfonts.com/font-downloads ```,
      then extract the package to your ~/.fonts folder.
    Note: If the .fonts directory isn't there already, just create it ;)
   -Rofi theme: Go to https://github.com/newmanls/rofi-themes-collection and follow the instructions, 
