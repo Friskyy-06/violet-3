@@ -46,7 +46,7 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |            $  |\$$$$$$  |
    -fastfetch/neofetch
 
 
-  Note: You can assign your preferred apps to always launch in a certain workspace by editing the i3 config file.
+  Tip: You can assign your preferred apps to always launch in a certain workspace by editing the i3 config file.
 
   Example:
 
