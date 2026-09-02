@@ -20,7 +20,7 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |            $  |\$$$$$$  |
 
   -Installation: put the i3 and polybar folders in your ~/.config
   -Wallpaper: put pink.png in ~/Pictures.
-  -Fonts: Download Martian Mono Nerd font at ``` https://www.nerdfonts.com/font-downloads ```,
+  -Fonts: Download Martian Mono Nerd font at https://www.nerdfonts.com/font-downloads,
      then extract the package to your ~/.fonts folder.
    Note: If the .fonts directory isn't there already, just create it ;)
   -Rofi theme: Go to https://github.com/newmanls/rofi-themes-collection and follow the instructions, 
@@ -50,9 +50,9 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |            $  |\$$$$$$  |
 
   Example:
 
-
+        ```
          assign [class = "kitty"] $ws2 
-
+                                        ```
   
   -Adding this line to your config file will guarantee that kitty terminal will always launch in workspace 2.
   -Use xprop to know the class of your app.  
