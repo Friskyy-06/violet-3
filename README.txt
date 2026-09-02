@@ -50,9 +50,9 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |            $  |\$$$$$$  |
 
   Example:
 
-        ```
+        
          assign [class = "kitty"] $ws2 
-                                        ```
+                                        
   
   -Adding this line to your config file will guarantee that kitty terminal will always launch in workspace 2.
   -Use xprop to know the class of your app.  
