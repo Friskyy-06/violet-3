@@ -221,9 +221,12 @@ bindsym $mod+shift+n exec nemo
 bindsym $mod+shift+v exec flatpak run dev.vencord.Vesktop
 bindsym $mod+shift+m exec vlc
 bindsym $mod+shift+s exec reboot
-bindsym $mod+shift+t exec subl
 #Workspace integration UwU
 assign [class = "kitty"] $ws2
+assign [class = "Google-chrome"] $ws3
+assign [class = "vesktop"] $ws4
+assign [class = "Nemo"] $ws5
+assign [class = "vlc"] $ws6
 
 gaps inner 10
 gaps outer 5
